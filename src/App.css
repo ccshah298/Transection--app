@@ -1,0 +1,20 @@
+body{
+  background-image: url(../src/background.jpeg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  color: rgb(108, 7, 42);
+}
+
+ul{
+  display: inline-block;
+  font-family: 'Open Sans Bold', sans-serif;
+  line-height: 1.8;
+  color: rgb(179, 139, 86);
+ }
+
+ .order-name{
+   display: flex;
+   justify-content:center;
+ }
+ 
